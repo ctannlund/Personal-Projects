@@ -1,0 +1,2 @@
+This was a final class project for an online web design class I took during high school. We had to pick a decade
+and make a website about it with pages for different topics. Not much else to say about this one.

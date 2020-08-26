@@ -1,0 +1,14 @@
+body {
+  background-image: url("http://wavemediasystems.com/wp-content/uploads/2017/01/Wood-Grain-Wallpaper-1920x1080-Wood-Grain.jpg");
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: silver;
+}
