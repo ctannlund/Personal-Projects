@@ -1,2 +1,2 @@
-# Beginner-Projects
+# Pre-College
 Various beginner-level projects.
