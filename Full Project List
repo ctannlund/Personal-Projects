@@ -16,3 +16,13 @@ Grocery List Maker - A tkinter app that simplifies grocery list creation by lett
 Paint Program - My attempt to create a Microsoft Paint style program using the tkinter canvas. One of my favorite projects so far. Includes a canvas, 3 brush types (pencil, round, and square), brush size control, undo/redo options, save feature, and a layer system like more modern art applications have.
 
 Rain Sounds Sleep App (WIP) - Planning to create a Java app where you can select different rain sounds with a timer to play during sleep. I want to add a feature called Lightning Mode where it occasionally flashes your phone flashlight like lightning. Not sure how good it'll look but I'm curious!
+
+Decade Website - A final project for an HTML class I took during high school. Had to create an HTML website from scratch based on a chosen decade. Needed to include several pages over different topics.
+
+Arduino Echolocation Glove - Ambitious idea where I tried to use a small motor to vibrate on the back of a glove when an ultrasonic sensor detected something close. The idea was to be able to "see" through the user's palm where the sensor was. In the end I got the motor working with the sensor but I didn't have the supplies or knowledge to create the full glove. Still kinda cool though.
+
+KDP - Joke Python script that would run in the background of a computer and mess up typing anything on the computer by backspacing, switching out letters, doubling letters, etc. Was meant to prank a friend during a class at school but the admin systems wouldn't allow it to open. Probably for the best.
+
+Arduino Scary Sounds - Funny project where I set up a speaker to play ominous noises when the attached photoresistor detected that it was in a dark area. Speaker was not ideal though and had to very heavily compress audio to work so it wasn't perfect.
+
+Arduino Thermal Light - Arduino project where an LED light would change colors depending on the temperature read by a thermistor. Red = Hot, White = Room Temp, Blue = Cold. One of my first successful Arduino projects.
